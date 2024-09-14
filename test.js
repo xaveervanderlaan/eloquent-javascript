@@ -9,3 +9,4 @@ obj.test = 'qwe';
 obj.test = {test: {q: null}};
 
 console.log(obj);
+console.log(arr);
